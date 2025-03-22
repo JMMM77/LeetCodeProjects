@@ -1,0 +1,1 @@
+﻿Console.WriteLine("It is easier to run these solutions via unit tests, easily repeatable and easier to add for many solutions.");
