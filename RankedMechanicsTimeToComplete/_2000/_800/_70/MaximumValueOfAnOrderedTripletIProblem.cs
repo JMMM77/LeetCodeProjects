@@ -1,12 +1,12 @@
 ﻿namespace LeetCodeSolutions._2000._800._70;
 /***
-URL: https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description
-Number: 2874
-Difficulty: Medium
+URL: https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/
+Number: 2873
+Difficulty: Easy
  */
-public class MaximumValueOfAnOrderedTripletIIProblem
+public class MaximumValueOfAnOrderedTripletIProblem
 {
-    public long MaximumTripletValue(int[] nums) // Same solution as MaximumValueOfAnOrderedTripletIProblem
+    public long MaximumTripletValue(int[] nums)
     {
         long result = 0; // Stores the maximum possible value of the triplet nums[i] - nums[j] + nums[k].
         long ijMax = 0; // Stores the maximum value of nums[i] - nums [j] encountered so far.

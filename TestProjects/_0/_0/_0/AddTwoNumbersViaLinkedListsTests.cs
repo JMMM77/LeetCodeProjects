@@ -10,15 +10,7 @@ public class AddTwoNumbersViaLinkedListsTests
     {
         var combinedList = AddTwoNumbersViaLinkedListsProblem.AddTwoNumbers(list1, list2);
 
-        if (CompareListNodes(expectedList, combinedList))
-        {
-            Assert.True(true);
-        }
-        else
-        {
-            var message = $"The expected list node and the calculated list node are not the same.";
-            Assert.True(false);
-        }
+        Assert.True(CompareListNodes(expectedList, combinedList));
     }
 
     public static IEnumerable<object[]> TestData = [

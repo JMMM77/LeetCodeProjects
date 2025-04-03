@@ -2,7 +2,7 @@
 
 namespace TestProjects._2000._800._10;
 
-public class ApplyOperationsToMaximizeScoreProblemTests
+public class MaximumValueOfAnOrderedTripletIIProblemTests
 {
     [Theory]
     [MemberData(nameof(TestData))]
