@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._1000._900._70;
 
-namespace TestProjects._1000._900._70;
+namespace LeetCodeSolutions.Tests._1000._900._70;
 
 public class NumberOfWaysToArriveAtDestinationProblemTests
 {

@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._2000._500._90;
 
-namespace TestProjects._2000._500._90;
+namespace LeetCodeSolutions.Tests._2000._500._90;
 
 public class MinimumTimeToRepairCarsProblemTests
 {

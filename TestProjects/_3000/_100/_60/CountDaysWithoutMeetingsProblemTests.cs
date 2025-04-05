@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._3000._100._60;
 
-namespace TestProjects._3000._100._60;
+namespace LeetCodeSolutions.Tests._3000._100._60;
 
 public class CountDaysWithoutMeetingsProblemTests
 {

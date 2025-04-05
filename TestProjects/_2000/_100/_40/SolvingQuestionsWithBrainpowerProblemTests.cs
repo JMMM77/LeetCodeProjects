@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._2000._100._40;
 
-namespace TestProjects._2000._100._40;
+namespace LeetCodeSolutions.Tests._2000._100._40;
 
 public class SolvingQuestionsWithBrainpowerProblemTests
 {

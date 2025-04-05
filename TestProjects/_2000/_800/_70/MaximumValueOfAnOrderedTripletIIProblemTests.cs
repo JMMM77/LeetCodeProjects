@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._2000._800._70;
 
-namespace TestProjects._2000._800._70;
+namespace LeetCodeSolutions.Tests._2000._800._70;
 
 public class MaximumValueOfAnOrderedTripletIIProblemTests
 {

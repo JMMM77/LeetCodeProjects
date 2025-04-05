@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._0._0._0;
 
-namespace TestProjects._0._0._0;
+namespace LeetCodeSolutions.Tests._0._0._0;
 
 public class ZigzagConversionProblemTests
 {

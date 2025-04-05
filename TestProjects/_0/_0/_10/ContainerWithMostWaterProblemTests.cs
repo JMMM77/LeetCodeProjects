@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._0._0._10;
 
-namespace TestProjects._0._0._10;
+namespace LeetCodeSolutions.Tests._0._0._10;
 
 public class ContainerWithMostWaterProblemTests
 {

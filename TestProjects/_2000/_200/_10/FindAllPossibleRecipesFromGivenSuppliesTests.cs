@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._2000._200._10;
 
-namespace TestProjects._2000._200._10;
+namespace LeetCodeSolutions.Tests._2000._200._10;
 
 public class FindAllPossibleRecipesFromGivenSuppliesTests
 {

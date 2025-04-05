@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSolutions", "RankedMechanicsTimeToComplete\LeetCodeSolutions.csproj", "{35D82553-8729-4CD4-AA37-E75C21BD9859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjects", "TestProjects\TestProjects.csproj", "{128F2950-A505-4375-AFDE-009CB608A2EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSolutions.Tests", "TestProjects\LeetCodeSolutions.Tests.csproj", "{128F2950-A505-4375-AFDE-009CB608A2EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

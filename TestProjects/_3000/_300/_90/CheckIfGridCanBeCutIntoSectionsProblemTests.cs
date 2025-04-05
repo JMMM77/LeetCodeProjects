@@ -1,6 +1,6 @@
 ﻿using LeetCodeSolutions._3000._300._90;
 
-namespace TestProjects._3000._300._90;
+namespace LeetCodeSolutions.Tests._3000._300._90;
 
 public class CheckIfGridCanBeCutIntoSectionsProblemTests
 {
