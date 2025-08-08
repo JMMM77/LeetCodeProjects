@@ -1,4 +1,4 @@
-﻿using LeetCodeSolutions._2000._800._70;
+﻿using LeetCodeSolutions._0._800._70;
 
 namespace LeetCodeSolutions.Tests._2000._800._70;
 

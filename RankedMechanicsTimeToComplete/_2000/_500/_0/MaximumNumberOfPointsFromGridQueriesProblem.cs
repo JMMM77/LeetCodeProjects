@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._500._0;
+﻿namespace LeetCodeSolutions._0._500._0;
 
 /***
 URL: https://leetcode.com/problems/maximum-number-of-points-from-grid-queries

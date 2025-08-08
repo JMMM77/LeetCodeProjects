@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._200._30;
+﻿namespace LeetCodeSolutions._0._200._30;
 
 /***
 URL: https://leetcode.com/problems/root-equals-sum-of-children/

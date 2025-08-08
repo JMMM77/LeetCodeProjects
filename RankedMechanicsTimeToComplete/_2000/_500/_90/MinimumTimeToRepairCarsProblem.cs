@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._500._90;
+﻿namespace LeetCodeSolutions._0._500._90;
 
 /***
 URL: https://leetcode.com/problems/minimum-time-to-repair-cars

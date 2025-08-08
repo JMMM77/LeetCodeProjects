@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._100._40;
+﻿namespace LeetCodeSolutions._0._100._40;
 
 /***
 URL: https://leetcode.com/problems/solving-questions-with-brainpower

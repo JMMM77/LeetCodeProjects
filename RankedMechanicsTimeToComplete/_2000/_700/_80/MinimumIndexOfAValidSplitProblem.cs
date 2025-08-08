@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._700._80;
+﻿namespace LeetCodeSolutions._0._700._80;
 
 /***
 URL: https://leetcode.com/problems/minimum-index-of-a-valid-split/description

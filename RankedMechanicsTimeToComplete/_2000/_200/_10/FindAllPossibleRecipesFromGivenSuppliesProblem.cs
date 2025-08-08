@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._200._10;
+﻿namespace LeetCodeSolutions._0._200._10;
 /***
 URL: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies
 Number: 2115

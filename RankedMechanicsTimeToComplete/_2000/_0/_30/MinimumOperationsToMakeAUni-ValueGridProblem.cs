@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._0._30;
+﻿namespace LeetCodeSolutions._0._0._30;
 /***
 URL: https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 Number: 2033

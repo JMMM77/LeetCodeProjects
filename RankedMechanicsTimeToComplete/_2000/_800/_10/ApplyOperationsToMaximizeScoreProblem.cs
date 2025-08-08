@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._2000._800._10;
+﻿namespace LeetCodeSolutions._0._800._10;
 
 /***
 URL: https://leetcode.com/problems/apply-operations-to-maximize-score/description

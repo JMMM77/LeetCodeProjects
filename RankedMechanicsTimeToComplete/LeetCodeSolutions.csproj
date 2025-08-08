@@ -8,15 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="_0\_0\_30\" />
-    <Folder Include="_0\_0\_40\" />
     <Folder Include="_0\_0\_50\" />
     <Folder Include="_0\_0\_70\" />
     <Folder Include="_0\_0\_80\" />
     <Folder Include="_0\_0\_90\" />
-    <Folder Include="_0\_0\_20\" />
     <Folder Include="_0\_100\_0\" />
-    <Folder Include="_0\_100\_10\" />
     <Folder Include="_0\_100\_20\" />
     <Folder Include="_0\_100\_30\" />
     <Folder Include="_0\_100\_40\" />
@@ -41,12 +37,10 @@
     <Folder Include="_0\_300\_30\" />
     <Folder Include="_0\_300\_40\" />
     <Folder Include="_0\_300\_50\" />
-    <Folder Include="_0\_300\_60\" />
     <Folder Include="_0\_300\_70\" />
     <Folder Include="_0\_300\_80\" />
     <Folder Include="_0\_300\_90\" />
     <Folder Include="_0\_400\_0\" />
-    <Folder Include="_0\_400\_10\" />
     <Folder Include="_0\_400\_20\" />
     <Folder Include="_0\_400\_30\" />
     <Folder Include="_0\_400\_40\" />
@@ -83,7 +77,6 @@
     <Folder Include="_0\_700\_70\" />
     <Folder Include="_0\_700\_80\" />
     <Folder Include="_0\_700\_90\" />
-    <Folder Include="_0\_800\_0\" />
     <Folder Include="_0\_800\_10\" />
     <Folder Include="_0\_800\_20\" />
     <Folder Include="_0\_800\_30\" />
@@ -91,8 +84,6 @@
     <Folder Include="_0\_800\_50\" />
     <Folder Include="_0\_800\_70\" />
     <Folder Include="_0\_800\_80\" />
-    <Folder Include="_0\_800\_90\" />
-    <Folder Include="_0\_900\_0\" />
     <Folder Include="_0\_900\_10\" />
     <Folder Include="_0\_900\_20\" />
     <Folder Include="_0\_900\_30\" />
@@ -192,7 +183,6 @@
     <Folder Include="_1000\_800\_90\" />
     <Folder Include="_1000\_900\_0\" />
     <Folder Include="_1000\_900\_10\" />
-    <Folder Include="_1000\_900\_20\" />
     <Folder Include="_1000\_900\_30\" />
     <Folder Include="_1000\_900\_40\" />
     <Folder Include="_1000\_900\_50\" />
@@ -235,7 +225,6 @@
     <Folder Include="_2000\_300\_80\" />
     <Folder Include="_2000\_300\_90\" />
     <Folder Include="_2000\_400\_0\" />
-    <Folder Include="_2000\_400\_10\" />
     <Folder Include="_2000\_400\_20\" />
     <Folder Include="_2000\_400\_30\" />
     <Folder Include="_2000\_400\_40\" />
@@ -249,7 +238,6 @@
     <Folder Include="_2000\_500\_30\" />
     <Folder Include="_2000\_500\_40\" />
     <Folder Include="_2000\_500\_50\" />
-    <Folder Include="_2000\_500\_60\" />
     <Folder Include="_2000\_500\_70\" />
     <Folder Include="_2000\_500\_80\" />
     <Folder Include="_2000\_600\_0\" />
@@ -270,14 +258,12 @@
     <Folder Include="_2000\_700\_50\" />
     <Folder Include="_2000\_700\_60\" />
     <Folder Include="_2000\_700\_70\" />
-    <Folder Include="_2000\_700\_90\" />
     <Folder Include="_2000\_800\_0\" />
     <Folder Include="_2000\_800\_20\" />
     <Folder Include="_2000\_800\_30\" />
     <Folder Include="_2000\_800\_40\" />
     <Folder Include="_2000\_800\_50\" />
     <Folder Include="_2000\_800\_60\" />
-    <Folder Include="_2000\_800\_80\" />
     <Folder Include="_2000\_800\_90\" />
     <Folder Include="_2000\_900\_0\" />
     <Folder Include="_2000\_900\_10\" />
@@ -288,7 +274,6 @@
     <Folder Include="_2000\_900\_60\" />
     <Folder Include="_2000\_900\_70\" />
     <Folder Include="_2000\_900\_80\" />
-    <Folder Include="_2000\_900\_90\" />
     <Folder Include="_3000\_0\_0\" />
     <Folder Include="_3000\_0\_10\" />
     <Folder Include="_3000\_0\_20\" />
@@ -315,7 +300,6 @@
     <Folder Include="_3000\_200\_40\" />
     <Folder Include="_3000\_200\_50\" />
     <Folder Include="_3000\_200\_60\" />
-    <Folder Include="_3000\_200\_70\" />
     <Folder Include="_3000\_200\_80\" />
     <Folder Include="_3000\_200\_90\" />
     <Folder Include="_3000\_300\_0\" />
@@ -324,8 +308,6 @@
     <Folder Include="_3000\_300\_30\" />
     <Folder Include="_3000\_300\_40\" />
     <Folder Include="_3000\_300\_50\" />
-    <Folder Include="_3000\_300\_60\" />
-    <Folder Include="_3000\_300\_70\" />
     <Folder Include="_3000\_300\_80\" />
     <Folder Include="_3000\_400\_0\" />
     <Folder Include="_3000\_400\_10\" />
@@ -334,7 +316,6 @@
     <Folder Include="_3000\_400\_40\" />
     <Folder Include="_3000\_400\_50\" />
     <Folder Include="_3000\_400\_60\" />
-    <Folder Include="_3000\_400\_70\" />
     <Folder Include="_3000\_400\_80\" />
     <Folder Include="_3000\_400\_90\" />
     <Folder Include="_3000\_500\_0\" />
