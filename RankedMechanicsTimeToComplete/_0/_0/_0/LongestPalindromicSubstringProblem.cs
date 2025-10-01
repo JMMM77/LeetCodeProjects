@@ -31,7 +31,7 @@ public class LongestPalindromicSubstringProblem
             }
         }
 
-        // do the same step as a above but instead of just for 2 length do it up to n length
+        // do the same step as a above but instead of just for 2 length do it up to Length length
         for (var diff = 2; diff < n; diff++)
         {
             for (var i = 0; i < n - diff; i++)

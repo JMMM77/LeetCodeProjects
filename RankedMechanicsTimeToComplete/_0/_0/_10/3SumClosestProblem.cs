@@ -18,7 +18,7 @@ public class _3SumClosestProblem
         {
             var iNum = nums[i];
 
-            if (i > 0 && iNum == nums[i - 1]) // If the values the same as the last checked value it must have already found all possible solutions so skip
+            if (i > 0 && iNum == nums[i - 1]) // If the Values the same as the last checked value it must have already found all possible solutions so skip
             {
                 continue;
             }

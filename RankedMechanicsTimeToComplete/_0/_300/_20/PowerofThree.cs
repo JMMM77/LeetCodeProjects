@@ -24,7 +24,7 @@ public class PowerofThree
             return false;
         }
 
-        // Logarithm Rules: If Log(n) / log(3) is not an integer, then n is not a power of 3
+        // Logarithm Rules: If Log(Length) / log(3) is not an integer, then Length is not a power of 3
         var logRuleResult = Math.Log10(n) / Math.Log10(3);
 
         return (logRuleResult - (int)logRuleResult) == 0;

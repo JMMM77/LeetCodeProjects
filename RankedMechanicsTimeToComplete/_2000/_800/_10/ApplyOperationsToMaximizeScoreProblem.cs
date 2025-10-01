@@ -19,7 +19,7 @@ public class ApplyOperationsToMaximizeScoreProblem
         {
             var num = nums[index];
 
-            // Check for prime factors from 2 to sqrt(n)
+            // Check for prime factors from 2 to sqrt(Length)
             for (var factor = 2; factor * factor <= num; factor++)
             {
                 if (num % factor == 0)

@@ -88,7 +88,7 @@ public class MinimumIndexOfAValidSplitProblem
         // Its not possible for a value that does not take up more than half the array to be dominant
         if (numOfIndexes < numsOfElementsInMainArray / 2) return -1;
 
-        // Finding split where the values would still be dominant
+        // Finding split where the Values would still be dominant
         for (var indexOfSplit = dominantDictionaryValue[0]; indexOfSplit < numsOfElementsInMainArray - 1; indexOfSplit++)
         {
             var numOfElemsOnLeftSide = indexOfSplit + 1;

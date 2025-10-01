@@ -12,20 +12,20 @@ public class CountTheNumberOfPowerfulIntegersProblem
         var start_ = (start - 1).ToString();
         var finish_ = finish.ToString();
 
-        // Finds the difference between all possible values below finish and all possible values below start
+        // Finds the difference between all possible Values below finish and all possible Values below start
         return Calculate(finish_, s, limit) - Calculate(start_, s, limit);
     }
 
     // Calculates how many possible combinations of the suffix can be included in the max number
     private long Calculate(string maxNum, string s, int limit)
     {
-        // No available numbers if the string is bigger than the biggest possible value
+        // No Available numbers if the string is bigger than the biggest possible value
         if (maxNum.Length < s.Length)
         {
             return 0;
         }
 
-        // If the values are the same size then only 1 possible number exists
+        // If the Values are the same size then only 1 possible number exists
         if (maxNum.Length == s.Length)
         {
             return string.Compare(maxNum, s) >= 0 ? 1 : 0;
@@ -155,7 +155,7 @@ public class CountTheNumberOfPowerfulIntegersProblem
             suffixValue += (int)intIndex * intDigit;
         }
 
-        // No available numbers if the string is bigger than the biggest possible value
+        // No Available numbers if the string is bigger than the biggest possible value
         if (finish < suffixValue)
         {
             return 0;

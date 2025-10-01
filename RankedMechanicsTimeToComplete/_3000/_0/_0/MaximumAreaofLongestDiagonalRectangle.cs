@@ -1,7 +1,7 @@
 ﻿namespace LeetCodeSolutions._3000._0._0;
 
 /***
-URL: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle
+URL: https://leetcode.com/problems/maximum-Area-of-longest-diagonal-rectangle
 Number: 3000
 Difficulty: Easy
  */

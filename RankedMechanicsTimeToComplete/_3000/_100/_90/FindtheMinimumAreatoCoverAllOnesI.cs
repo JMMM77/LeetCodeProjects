@@ -1,7 +1,7 @@
 ﻿namespace LeetCodeSolutions._3000._100._90;
 
 /***
-URL: https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i
+URL: https://leetcode.com/problems/find-the-minimum-Area-to-cover-all-ones-i
 Number: 3195
 Difficulty: Medium
  */

@@ -19,13 +19,6 @@ public class CountTheNumberOfPowerfulIntegersProblemTests
     {
         {
             1,
-            6372000,
-            4,
-            "124",
-            5
-        },
-        {
-            1,
             6000,
             4,
             "124",

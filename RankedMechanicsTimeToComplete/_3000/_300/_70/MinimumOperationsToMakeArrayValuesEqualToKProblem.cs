@@ -1,7 +1,7 @@
 ﻿namespace LeetCodeSolutions._3000._300._70;
 
 /***
-URL: https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k
+URL: https://leetcode.com/problems/minimum-operations-to-make-array-Values-equal-to-k
 Number: 3375
 Difficulty: Easy
  */

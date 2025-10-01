@@ -23,7 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="_0\_0\_30\" />
     <Folder Include="_0\_0\_50\" />
     <Folder Include="_0\_0\_70\" />
     <Folder Include="_0\_0\_80\" />
@@ -76,7 +75,6 @@
     <Folder Include="_0\_500\_80\" />
     <Folder Include="_0\_500\_90\" />
     <Folder Include="_0\_600\_0\" />
-    <Folder Include="_0\_600\_10\" />
     <Folder Include="_0\_600\_20\" />
     <Folder Include="_0\_600\_30\" />
     <Folder Include="_0\_600\_40\" />
@@ -222,7 +220,6 @@
     <Folder Include="_2000\_0\_70\" />
     <Folder Include="_2000\_0\_80\" />
     <Folder Include="_2000\_0\_90\" />
-    <Folder Include="_2000\_100\_0\" />
     <Folder Include="_2000\_100\_10\" />
     <Folder Include="_2000\_100\_20\" />
     <Folder Include="_2000\_100\_30\" />
@@ -230,7 +227,6 @@
     <Folder Include="_2000\_100\_60\" />
     <Folder Include="_2000\_100\_70\" />
     <Folder Include="_2000\_100\_80\" />
-    <Folder Include="_2000\_100\_90\" />
     <Folder Include="_2000\_200\_0\" />
     <Folder Include="_2000\_200\_20\" />
     <Folder Include="_2000\_200\_30\" />
@@ -305,7 +301,6 @@
     <Folder Include="_2000\_900\_80\" />
     <Folder Include="_3000\_0\_0\" />
     <Folder Include="_3000\_0\_10\" />
-    <Folder Include="_3000\_0\_20\" />
     <Folder Include="_3000\_0\_30\" />
     <Folder Include="_3000\_0\_40\" />
     <Folder Include="_3000\_0\_50\" />
@@ -341,15 +336,11 @@
     <Folder Include="_3000\_300\_60\" />
     <Folder Include="_3000\_300\_70\" />
     <Folder Include="_3000\_300\_80\" />
-    <Folder Include="_3000\_400\_0\" />
     <Folder Include="_3000\_400\_10\" />
     <Folder Include="_3000\_400\_20\" />
     <Folder Include="_3000\_400\_30\" />
-    <Folder Include="_3000\_400\_40\" />
-    <Folder Include="_3000\_400\_50\" />
     <Folder Include="_3000\_400\_60\" />
     <Folder Include="_3000\_400\_70\" />
-    <Folder Include="_3000\_400\_80\" />
     <Folder Include="_3000\_400\_90\" />
     <Folder Include="_3000\_500\_0\" />
     <Folder Include="_3000\_500\_10\" />

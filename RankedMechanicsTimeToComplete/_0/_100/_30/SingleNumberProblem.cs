@@ -13,7 +13,7 @@ public class SingleNumberProblem
 
         foreach (var n in nums)
         {
-            result ^= n; // XOR to cancel out previously found values
+            result ^= n; // XOR to cancel out previously found Values
         }
 
         return result;

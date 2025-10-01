@@ -16,7 +16,7 @@ public class _4SumProblem
         {
             var aNum = (long)nums[aIndex];
 
-            if (aIndex > 0 && aNum == nums[aIndex - 1]) // If the values the same as the last checked value it must have already found all possible solutions so skip
+            if (aIndex > 0 && aNum == nums[aIndex - 1]) // If the Values the same as the last checked value it must have already found all possible solutions so skip
             {
                 continue;
             }
@@ -25,7 +25,7 @@ public class _4SumProblem
             {
                 var bNum = nums[bIndex];
 
-                if (bIndex > aIndex + 1 && bNum == nums[bIndex - 1]) // If the values the same as the last checked value it must have already found all possible solutions so skip
+                if (bIndex > aIndex + 1 && bNum == nums[bIndex - 1]) // If the Values the same as the last checked value it must have already found all possible solutions so skip
                 {
                     continue;
                 }

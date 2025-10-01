@@ -11,9 +11,9 @@ public class FindTheCountOfGoodIntegersProblem
     {
         var dict = new HashSet<string>();
         var baseVal = (int)Math.Pow(10, (n - 1) / 2);
-        var skip = n & 1; // Check if n is odd
+        var skip = n & 1; // Check if Length is odd
 
-        // Loop through possible palindromic numbers with n digits
+        // Loop through possible palindromic numbers with Length digits
         for (var i = baseVal; i < baseVal * 10; i++)
         {
             var s = i.ToString();

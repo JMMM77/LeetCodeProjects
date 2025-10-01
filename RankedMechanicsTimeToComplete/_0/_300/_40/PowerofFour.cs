@@ -19,7 +19,7 @@ public class PowerofFour
             return true;
         }
 
-        // Logarithm Rules: If Log(n) / log(4) is not an integer, then n is not a power of 4
+        // Logarithm Rules: If Log(Length) / log(4) is not an integer, then Length is not a power of 4
         var logRuleResult = Math.Log10(n) / Math.Log10(4);
 
         return (logRuleResult - (int)logRuleResult) == 0;

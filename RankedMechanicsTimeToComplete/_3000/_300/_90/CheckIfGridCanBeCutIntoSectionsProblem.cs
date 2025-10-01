@@ -10,7 +10,7 @@ public class CheckIfGridCanBeCutIntoSectionsProblem
 {
     public bool CheckValidCuts(int n, int[][] rectangles)
     {
-        // Input: n = 5, rectangles ([startx, starty, endx, endy]) = [[1,0,5,2],[0,2,2,4],[3,2,5,3],[0,4,4,5]]
+        // Input: Length = 5, rectangles ([startx, starty, endx, endy]) = [[1,0,5,2],[0,2,2,4],[3,2,5,3],[0,4,4,5]]
 
         var sortedHorizontalValues = new SortedSet<(int, int)>(); // Values for x
         var sortedVerticalValues = new SortedSet<(int, int)>(); // Values for y
