@@ -9,6 +9,28 @@ public class Triangle
 {
     public int MinimumTotal(IList<IList<int>> triangle)
     {
+        var botLength = triangle[^1].ToArray();
+
+        for (var i = triangle.Count - 2; i >= 0; i--)
+        {
+            var newList = new int[botLength.Length - 1];
+            newList[0] = botLength[0] + triangle[i][0];
+
+            for (var j = 1; j < botLength.Length - 1; j++)
+            {
+                newList[j - 1] = Math.Min(newList[j - 1], botLength[j] + triangle[i][j - 1]);
+                newList[j] = (botLength[j] + triangle[i][j]);
+            }
+
+            newList[^1] = Math.Min(newList[^1], botLength[^1] + triangle[i][^1]);
+            botLength = newList;
+        }
+
+        return botLength[0];
+    }
+
+    public int MinimumTotal1(IList<IList<int>> triangle)
+    {
         if (triangle == null || triangle.Count == 0)
         {
             return 0;
