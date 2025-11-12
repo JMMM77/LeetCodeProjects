@@ -1,4 +1,5 @@
 ﻿namespace LeetCodeSolutions._0._100._40;
+
 /***
 URL: https://leetcode.com/problems/count-the-hidden-sequences
 Number: 2145
