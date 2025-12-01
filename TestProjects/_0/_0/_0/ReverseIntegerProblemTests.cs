@@ -15,22 +15,11 @@ public class ReverseIntegerProblemTests
         Assert.Equal(expected, calculatedValue);
     }
 
-    public static IEnumerable<object[]> TestData = [
-        [
-            3,
-            true
-        ],
-        [
-            121,
-            true
-        ],
-        [
-            10,
-            false
-        ],
-        [
-            -121,
-            false
-        ]
-    ];
+    public static TheoryData<int, bool> TestData { get; } = new TheoryData<int, bool>
+    {
+        { 3, true },
+        { 121, true },
+        { 10, false },
+        { -121, false }
+    };
 }

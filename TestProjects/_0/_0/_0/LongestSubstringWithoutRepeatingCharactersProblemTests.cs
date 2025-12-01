@@ -15,22 +15,11 @@ public class LongestSubstringWithoutRepeatingCharactersProblemTests
         Assert.Equal(expectedResult, answer);
     }
 
-    public static IEnumerable<object[]> TestData = [
-        [
-            "dvdf",
-            3
-        ],
-        [
-            "abcabcbb",
-            3
-        ],
-        [
-            "bbbbb",
-            1
-        ],
-        [
-            "pwwkew",
-            3
-        ]
-    ];
+    public static TheoryData<string, int> TestData { get; } = new TheoryData<string, int>
+    {
+        { "dvdf", 3 },
+        { "abcabcbb", 3 },
+        { "bbbbb", 1 },
+        { "pwwkew", 3 }
+    };
 }

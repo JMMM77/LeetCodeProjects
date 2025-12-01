@@ -14,15 +14,14 @@ public class LongestPalindromicSubstringProblemTests
 
         Assert.Equal(expectedResult, answer);
     }
-
-    public static IEnumerable<object[]> TestData = [
-        [
-            "babad",
-            "aba"
-        ],
-        [
-            "cbbd",
-            "bb"
-        ]
-    ];
+    public static TheoryData<string, string> TestData => new()
+    {
+        { "a", "a" },
+        { "ac", "a" },
+        { "bb", "bb" },
+        { "babad", "aba" },
+        { "cbbd", "bb" },
+        { "aacabdkacaa", "aca" },
+        { "forgeeksskeegfor", "geeksskeeg" }
+    };
 }

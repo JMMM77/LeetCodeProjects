@@ -10,31 +10,32 @@ public class AddTwoNumbersViaLinkedListsTests
     {
         var combinedList = AddTwoNumbersViaLinkedListsProblem.AddTwoNumbers(list1, list2);
 
-        Assert.True(CompareListNodes(expectedList, combinedList));
+        Assert.True(this.CompareListNodes(expectedList, combinedList));
     }
 
-    public static IEnumerable<object[]> TestData = [
-        [
+    public static TheoryData<ListNode, ListNode, ListNode> TestData => new()
+    {
+        {
             new ListNode([2,4,3]),
             new ListNode([5,6,4]),
             new ListNode([7,0,8])
-        ],
-        [
+        },
+        {
             new ListNode([0]),
             new ListNode([0]),
             new ListNode([0])
-        ],
-        [
+        },
+        {
             new ListNode([9,9,9,9,9,9,9]),
             new ListNode([9,9,9,9]),
             new ListNode([8,9,9,9,0,0,0,1])
-        ],
-        [
+        },
+        {
             new ListNode([0]),
             new ListNode([1]),
             new ListNode([1])
-        ]
-    ];
+        }
+    };
 
     private bool CompareListNodes(ListNode expectedListNode, ListNode calculatedListNode)
     {
@@ -44,9 +45,11 @@ public class AddTwoNumbersViaLinkedListsTests
             {
                 return false;
             }
+
             expectedListNode = expectedListNode.next;
             calculatedListNode = calculatedListNode.next;
         }
+
         return expectedListNode.val == calculatedListNode.val;
     }
 }

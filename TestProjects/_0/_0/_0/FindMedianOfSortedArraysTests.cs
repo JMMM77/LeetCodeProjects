@@ -12,25 +12,17 @@ public class FindMedianOfSortedArraysTests
 
         Assert.Equal(expectedValue, combinedList);
     }
-
-    public static IEnumerable<object[]> TestData = [
-        [
-            new int[]{
-                1,3
-            },
-            new int[]{
-                2
-            },
+    public static TheoryData<int[], int[], double> TestData => new()
+    {
+        {
+            [1, 3],
+            [2],
             2
-        ],
-        [
-            new int[]{
-                1,2
-            },
-            new int[]{
-                3,4
-            },
+        },
+        {
+            [1, 2],
+            [3, 4],
             2.5
-        ],
-    ];
+        },
+    };
 }
